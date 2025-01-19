@@ -1,4 +1,21 @@
-Descrição do Projeto
+# Responsive Registration Form
+
+This project is a simple and functional registration form developed with HTML5 and styled with CSS. The goal is to create a user-friendly and responsive interface for collecting user information. This form can be used as a base for various web applications, from contact pages to registration systems.
+
+Features
+Input fields: name, email, and phone number.
+Text area for custom messages.
+Dropdown menu for gender selection.
+Checkbox to accept terms and conditions.
+Modern and responsive design.
+Technologies Used
+HTML5: Semantic structure of the form.
+CSS: Styling to make the form visually appealing and functional.
+How to Access
+The form is hosted on GitHub Pages and can be accessed via the link: Access here https://junniordf61.github.io/Submission-Form-Template/
+
+
+
 
 Formulário de Cadastro com Design Responsivo
 
@@ -16,19 +33,5 @@ CSS: Estilização para tornar o formulário visualmente atraente e funcional.
 Como Acessar
 O formulário está hospedado no GitHub Pages e pode ser acessado pelo link: Acesse aqui
 
-Project Description
-Responsive Registration Form
 
-This project is a simple and functional registration form developed with HTML5 and styled with CSS. The goal is to create a user-friendly and responsive interface for collecting user information. This form can be used as a base for various web applications, from contact pages to registration systems.
 
-Features
-Input fields: name, email, and phone number.
-Text area for custom messages.
-Dropdown menu for gender selection.
-Checkbox to accept terms and conditions.
-Modern and responsive design.
-Technologies Used
-HTML5: Semantic structure of the form.
-CSS: Styling to make the form visually appealing and functional.
-How to Access
-The form is hosted on GitHub Pages and can be accessed via the link: Access here https://junniordf61.github.io/Submission-Form-Template/
