@@ -31,4 +31,4 @@ Technologies Used
 HTML5: Semantic structure of the form.
 CSS: Styling to make the form visually appealing and functional.
 How to Access
-The form is hosted on GitHub Pages and can be accessed via the link: Access here
+The form is hosted on GitHub Pages and can be accessed via the link: Access here https://junniordf61.github.io/Submission-Form-Template/
