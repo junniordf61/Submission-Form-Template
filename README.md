@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 Formulário de Cadastro com Design Responsivo
 
 Este projeto consiste em um formulário de cadastro simples e funcional, desenvolvido em HTML5 e estilizado com CSS. O objetivo é criar uma interface amigável e responsiva para coleta de informações dos usuários. Este formulário pode ser utilizado como base para diversos tipos de aplicações web, desde páginas de contato até sistemas de registro.
